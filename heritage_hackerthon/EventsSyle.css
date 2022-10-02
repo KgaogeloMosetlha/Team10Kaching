@@ -1,0 +1,172 @@
+button {
+  
+    display: inline-block;
+      
+  }
+  
+  input {
+    
+    display: inline-block;  
+  }
+  
+  ::-webkit-input-placeholder {
+     text-align: center;
+  }
+  
+  
+  
+  #uiNavbar li:hover{
+  
+    background-color: grey;
+    cursor: pointer;
+  
+    
+  
+  }
+  
+  
+  a, a:link, a:hover, a:active {
+  
+    text-decoration: none;
+    color: black;
+  
+  }
+  
+  
+  #thread {
+  
+    background-color: white;
+    margin-top: 40px;
+    padding: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px; 
+    height: auto;
+    border: 1px solid;
+  
+   
+  }
+  
+  #textTopic{
+  
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    
+  
+  }
+  
+  
+  #thread_ButtomPadding  {
+  
+    margin-bottom: 90px;
+  
+  }
+  
+  
+  
+  
+  
+  
+  #zulu {
+  
+    background-image: url("img/zulu_dance210922/zulu.jpeg");
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin:20px;
+  
+    padding: 2%;
+  
+  }
+  
+  
+  #heritage {
+  
+    background-image: url("img/zaHeritage_day2109/heritageday.jpg");
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin:20px;
+  
+    padding: 2%;
+  
+  }
+  
+  
+  
+  #braai {
+  
+    background-image: url("img/braai_day210922/braai6.jpg");
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin:20px;
+  
+    padding: 2%;
+  
+  }
+  
+  
+  
+  
+  #thread_header {
+  
+    margin-left: 7%;
+    margin-top: 1%;
+  }
+  
+  
+  #dateTime {
+  
+    float: right;
+    display: inline;
+    color:darkgrey;
+  
+  }
+  
+  
+  #thread_Body {
+  
+  
+    margin-top: 6%;
+    margin-bottom: 10%
+  }
+  
+  
+  
+  
+  #thread_Title {
+  
+    font-weight: bold;
+    display: inline;
+  
+  }
+  
+  
+  
+  
+  .maxContent {
+  
+    float: left;
+    margin-right: 5%;
+    margin-left: 3%;
+  
+  }
+  
+  
+  
+  
+  
+  
+  #thread:hover {
+  
+    background-color: whitesmoke;
+    cursor: pointer;
+  
+  }
+  
+  
